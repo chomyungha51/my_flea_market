@@ -1,0 +1,11 @@
+.header {
+    background-color: crimson;
+    height: 50px;
+    justify-content: space-around;
+}
+
+.search_bar {
+    width: 300px;
+    outline: none;
+    border-radius: 5px;
+}
